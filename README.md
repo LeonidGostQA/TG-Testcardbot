@@ -1,3 +1,3 @@
 # TG-Testcardbot
-Бот в телеграмме, для генерации тестовых банковских карт.
-https://t.me/LeonidGostQA_cardbot
+https://t.me/LeonidGostQA_cardbot - мой бот в телеграмме, для генерации тестовых банковских карт.
+
